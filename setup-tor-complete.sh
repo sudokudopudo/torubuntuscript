@@ -3,7 +3,7 @@
 # ============================================================================
 # Setup Tor - Automated Tor Installation and Configuration
 # ============================================================================
-# Author: user@windows
+# Author: sudokudopudo
 # Version: 1.0
 # Description: Automated Tor installation and configuration with systemd integration
 # ============================================================================
