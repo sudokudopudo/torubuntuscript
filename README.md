@@ -4,8 +4,11 @@ Automated Tor installation and configuration of desktop shortcuts on Ubuntu.
 
 ## Installation
 
-```bash
-sudo bash setup-tor-complete.sh
+## Installation
+
+cd ~/Downloads
+bash setup-tor-complete.sh
+
 
 ## Features
 
